@@ -1,4 +1,5 @@
 <?php 
+
  class Conexion extends PDO { 
 
    private $tipo_de_base = 'mysql';
@@ -16,5 +17,6 @@
          exit;
       }
    } 
- } 
+ }
+
 ?>
