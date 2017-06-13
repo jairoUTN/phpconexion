@@ -1,2 +1,0 @@
-# phpconexion
-Conexión PHP
